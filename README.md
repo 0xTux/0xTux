@@ -1,1 +1,1 @@
-# I've change my username to tuxdotrs
+# I've change my username to [tuxdotrs](https://github.com/tuxdotrs)
